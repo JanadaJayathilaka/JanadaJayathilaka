@@ -8,7 +8,7 @@
 - 🌱 I’m currently an **undergraduate in University of Kelaniya Sri Lanka**
 - 👯 I’m looking to collaborate on Full Stack Development.
 - 📫 How to reach me **lakvindujayathilaka@gmail.com**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
@@ -35,4 +35,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanadaJayathilaka&theme=github_dark)</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanadaJayathilaka&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
